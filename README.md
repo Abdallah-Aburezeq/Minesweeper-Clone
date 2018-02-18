@@ -6,4 +6,4 @@ The game randomly sets 10 mines in a grid of 81 tiles. The player must then flag
 
 Tileset by: Eugene Loza from (http://opengameart.org/content/minesweeper-tile-set-lazarus)
 
-![screenshot](https://github.com/Abdallah-Aburezeq/Minesweeper-Clone/blob/README-UPDATES/Screenshots/minesweeper_github.PNG)
+![screenshot](https://github.com/Abdallah-Aburezeq/Minesweeper-Clone/blob/master/Screenshots/minesweeper_github.PNG)
